@@ -1,0 +1,15 @@
+.news_title_line_limit{
+    max-height: 2.4em;
+    line-height: 1.2em;
+    overflow: hidden;
+}
+
+.news_description_line_limit{
+    max-height: 3.6em;
+    line-height: 1.2em;
+    overflow: hidden;
+}
+
+.news_image{
+    object-fit: cover;
+}

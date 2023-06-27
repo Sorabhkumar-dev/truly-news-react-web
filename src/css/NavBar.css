@@ -1,0 +1,13 @@
+.heading{
+    font-weight: 600;
+    color: var(--COLOR-PRIMARY);
+}
+.nav_item_text_unselected{
+    font-weight: 400;
+    color: var(--COLOR-SECONDORY);
+}
+
+.nav_item_text_selected{
+    font-weight: 400;
+    color:  var(--COLOR-PRIMARY);
+}
