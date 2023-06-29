@@ -1,0 +1,14 @@
+
+.news_title_line_limit{
+    max-height: 2.4em;
+    line-height: 1.2em;
+    overflow: hidden;
+}
+.news_description_line_limit{
+    overflow: hidden;
+}
+
+.medium_card_image{
+    width: 19rem;
+    object-fit: fill;
+}
