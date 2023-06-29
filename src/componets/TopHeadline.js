@@ -15,7 +15,6 @@ export default function TopHeadline() {
     }
 
     const handleNextBtnClicked = () => {
-      console.log(`page -> ${page}`)
       if(articles.length % PAGE_SIZE == 0){
         setPage(page+1)
       }
