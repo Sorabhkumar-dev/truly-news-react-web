@@ -54,7 +54,7 @@ export default function AllNews() {
           <>
             <div className="d-flex flex-wrap justify-content-around">
               {newsItems}
-            <div className="d-flex justify-content-between w-100 mx-5 my-5  ">
+            <div className="d-flex justify-content-between w-100 mx-5 my-5">
               <button
                 type="button"
                 className="btn btn-primary"

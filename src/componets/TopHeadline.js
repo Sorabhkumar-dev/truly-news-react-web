@@ -26,7 +26,7 @@ export default function TopHeadline() {
 
   useEffect(() => {
     setIsShowLoading(true)
-    getTopHeadline(page)
+    getTopHeadline(page,"sports")
       .then((response) => {
         setIsShowLoading(false)
         setIsShowError(false)
